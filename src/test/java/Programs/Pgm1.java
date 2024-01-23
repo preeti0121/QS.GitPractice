@@ -7,6 +7,7 @@ public class Pgm1 {
 
 		System.out.println("Welcome to github");
 		System.out.println("Commit and push the changes to GitHub");
+		System.out.println("Upadte the program");
 
 	}
 
